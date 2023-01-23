@@ -3,4 +3,5 @@
     <string name="text_title_main">Prueba Diagnóstica</string>
     <string name="text_sensor_proximidad">Sensor de Proximidad</string>
     <string name="text_sensor_luminosidad">Sensor de Luminosidad</string>
+    <string name="button_enviar_resultados">Enviar Resultados</string>
 </resources>
